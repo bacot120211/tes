@@ -1,0 +1,5 @@
+funtion stop()
+while true do
+break
+end
+end
